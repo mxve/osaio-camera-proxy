@@ -5,6 +5,12 @@ minimal proxy that logs into an osaio account and restreams all cameras as separ
 > [!WARNING]
 > this project does not publish the api details, you can get them from the android app.
 
+## verified cameras
+
+| vendor | model | limitations |
+|---|---|---|
+| GNCC | GC3 | none |
+
 ## configuration
 
 edit `config.toml`:
